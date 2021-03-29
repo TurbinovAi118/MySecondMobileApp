@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bus Timer Java</string>
+    <string name="busListTag">Список Доступных автобусов</string>
+    <string name="moreBusHint">Вскоре появится возможность добавить больше авбобусов</string>
+    <string name="confirm">Подтвердить</string>
+    <string name="enter_bus_num">Enter bus №</string>
+    <string name="bus_num_tag">Введите номер автобуса</string>
+    <string name="add_bus_tag">Тут вы можете добавить новый автобус</string>
+    <string name="spanHint">Чтобы продолжить введите интервал хождения автобусов</string>
+    <string name="enter_span">Enter span</string>
+    <string name="currBusTime" />
+    <string name="nextBusTime" />
+    <string name="bus_schedule">Расписание вашего автобуса</string>
+    <string name="nearest_bus">Ближайший автобус:</string>
+</resources>
